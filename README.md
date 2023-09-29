@@ -30,7 +30,8 @@ Email: layson.contato@gmail.com
 
 <hr></hr>
 
-### Projetos que possuem um dedo meu (ou até a mão toda) nele
+### Produtos que possuem um dedo meu (ou até a mão toda) nele
+h4>miio - Mobilidade elétrica, simples!</h4>
 <h4>Call ECG -  Disponíveis para Android e iOS</h4>
   <ul>
     <li>Call ECG - Clientes</li>
@@ -49,7 +50,7 @@ Email: layson.contato@gmail.com
   <div>
     <a href = "mailto:layson.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <a href = "https://www.linkedin.com/in/layson-eduardo/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <a href = "https://twitter.com/Layson_dev"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+    <a href = "https://twitter.com/Layson_dart"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
   
   <hr></hr>
