@@ -1,5 +1,15 @@
 ## Olá, tudo bem? 
-#### Meu nome é Layson, tenho 23 anos e sou um desenvolvedor com foco em mobile (Flutter), comecei a estudar o mesmo em Março/2021 e logo em seguida consegui ser contratado como Flutter Developer Junior, desde então tive a experiência de desenvolver alguns apps do zero como a tríade Call ECG (Descritos mais para frente) e prestar manutenção a um marketplace chamado Voit.<br><br> A cada app pelo qual passei tive a oportunidade de me desenvolver cada vez mais, afinal esse é o ciclo natural.
+#### Desenvolvedor Mobile com um pouco mais de 2 anos de experiência. Já trabalhei no desenvolvimento de aplicativos voltados para as áreas de saúde, mobilidade elétrica e e-commerce, sendo que um desses aplicativos está disponível em 3 países diferentes (Portugal, Espanha e França).
+
+Skills:
+- Dart
+- Flutter
+- Firebase
+- Sentry 
+
+Contatos:
+Telefone: +55 (21) 99606-1211
+Email: layson.contato@gmail.com
 <hr></hr>
 
 ### Tenho experiência
