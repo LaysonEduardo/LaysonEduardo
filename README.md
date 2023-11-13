@@ -1,5 +1,5 @@
 ## Olá, tudo bem? 
-#### Desenvolvedor Mobile com um pouco mais de 2 anos de experiência. Já trabalhei no desenvolvimento de aplicativos voltados para as áreas de saúde, mobilidade elétrica e e-commerce, sendo que um desses aplicativos está disponível em 3 países diferentes (Portugal, Espanha e França).
+#### Desenvolvedor Mobile com um pouco mais de 3 anos de experiência. Já trabalhei no desenvolvimento de aplicativos voltados para as áreas de saúde, mobilidade elétrica e e-commerce, sendo que um desses aplicativos está disponível em 3 países diferentes (Portugal, Espanha e França).
 
 Skills:
 - Dart
